@@ -119,7 +119,7 @@ INSERT INTO table_makarkulishenko SELECT * FROM load_table_makarkulishenko;
 ```sql
 SELECT * FROM table_makarkulishenko LIMIT 10;
 
-![alt text](image-1.png)
+![](image-1.png)
 
 Ура! Все работает!
 
