@@ -118,7 +118,7 @@ INSERT INTO table_makarkulishenko SELECT * FROM load_table_makarkulishenko;
 9. Убедимся, что все подгрузилось::
 ```sql
 SELECT * FROM table_makarkulishenko LIMIT 10;
-
+```
 ![](images/img1.png)
 
 Ура! Все работает!
